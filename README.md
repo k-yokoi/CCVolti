@@ -1,5 +1,5 @@
-# CloneDetector
-Clone detection tool by code block unit using TF-IDF and LSH algorithm.
+# CCVolti
+Code Clone detector by Veectorization based On Lsh and Tf-Idf.
 
 # Requirement
  - Windows
