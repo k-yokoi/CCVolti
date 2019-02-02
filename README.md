@@ -1,5 +1,5 @@
 # CCVolti
-Code Clone detector by Veectorization based On Lsh and Tf-Idf.
+Code Clone detector by Vectorization based On Lsh and Tf-Idf.
 
 # Requirement
  - Windows
